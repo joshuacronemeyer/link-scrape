@@ -1,0 +1,1 @@
+This is a script I was using to get a unique set of URL's from some html.  It is Ruby and depends on _why's hpricot library.
